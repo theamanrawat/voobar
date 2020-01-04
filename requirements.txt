@@ -1,0 +1,6 @@
+argparse
+dnspython
+requests
+beautifultable
+sublist3r
+
